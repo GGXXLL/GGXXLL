@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=GGXXLL&show_icons=true&include_all_commits=true&theme=material-palenight" />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGXXLL&layout=compact&theme=material-palenight" />
 
 <!--
