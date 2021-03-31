@@ -1,7 +1,7 @@
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=GGXXLL&show_icons=true&include_all_commits=true&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GGXXLL&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGXXLL&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGXXLL&layout=compact&theme=material-palenight" />
 
 <!--
 **GGXXLL/GGXXLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
